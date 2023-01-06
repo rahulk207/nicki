@@ -1,6 +1,7 @@
 NICKI-NICKI(hide)
 
 Parts of the code are from https://github.com/tkipf/pygcn
+Our datasets can be found [here](https://drive.google.com/file/d/1W9oW_vANjO6i39q8ZtLg7rXlqmkIN5dQ/view?usp=sharing)
 
 The code is set for training NICKI for cora dataset with base class 5 and target class 0
 
